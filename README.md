@@ -8,6 +8,8 @@ It's a code repo for bunch of MicroServices which are designed to represent a pl
      +HLD                 : https://chat.openai.com/share/f2909a95-6a1c-4f86-8e13-d6ecefe657b2
      +Harbour             : https://chat.openai.com/share/f2909a95-6a1c-4f86-8e13-d6ecefe657b2
 
+     https://chat.openai.com/share/f2909a95-6a1c-4f86-8e13-d6ecefe657b2
+
 
 LifeHarbour High-Level Design:
 1. User Interface (React Frontend):
